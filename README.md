@@ -1,1 +1,1 @@
-# Amazon-and-Yelp-Review-Rating-Predictor-
+# Amazon-Review-Rating-Predictor-
