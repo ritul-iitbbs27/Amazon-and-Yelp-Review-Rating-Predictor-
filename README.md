@@ -1,3 +1,4 @@
+
 # Amazon Review Rating Predictor
 
 Predicting the numeric star rating (1.0–5.0) of an Amazon review purely from its raw text, using TF-IDF, structural features, and sentiment analysis, compared across Linear Regression, Ridge, and XGBoost.
@@ -165,3 +166,4 @@ amazon-review-rating-predictor/
 - Fine-tune a transformer (e.g. DistilBERT) to address the sarcasm/mixed-sentiment error cases identified above
 - Extend to multiple Amazon categories to test generalization
 - Incorporate `verified_purchase` and review recency as additional structural features
+
